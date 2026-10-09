@@ -2,8 +2,12 @@
 title: "Lab News"
 description: "A searchable timeline of Fox Lab updates."
 anchor-sections: false
+filters:
+  - ../filters/news-timeline.lua
 ---
 
 Browse lab updates, talks, collaborations, and student milestones. Use the search box or topic filter to find an update, then select it to see details and photos.
 
-{{< include _timeline.qmd >}}
+```{=html}
+<!-- FOX_LAB_NEWS_TIMELINE -->
+```
