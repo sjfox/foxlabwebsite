@@ -1,0 +1,38 @@
+---
+title: "Annalise Cramer"
+description: "Annalise Cramer, phd student, epidemiology & biostatistics, and member of The Fox Lab."
+image: ../../images/web/people/annalise-cramer.jpg
+title-block-style: none
+body-class: profile-page
+---
+
+::: {.profile-hero}
+::: {.profile-photo}
+![Annalise Cramer](../../images/web/people/annalise-cramer.jpg){fig-alt="Portrait of Annalise Cramer" loading="eager" decoding="async"}
+:::
+
+::: {.profile-intro}
+<p class="profile-kicker">PhD student, Epidemiology & Biostatistics</p>
+
+# Annalise Cramer
+
+Annalise (Annie) Cramer is a PhD student in Epidemiology & Biostatistics at the University of Georgia and a member of The Fox Lab.
+
+::: {.profile-links}
+[Email](mailto:Annalise.Cramer1@uga.edu)
+[Back to the lab](../../people.qmd)
+:::
+:::
+:::
+
+## Research And Lab Highlights
+
+### Doctoral training
+
+Annie passed the qualifying exam in May 2024, completing a milestone in the PhD program in Epidemiology & Biostatistics.
+
+[Read the lab update](../../news/index.qmd#annie-passes-the-qualifying-exam)
+
+## Get In Touch
+
+[Email Annalise Cramer](mailto:Annalise.Cramer1@uga.edu) · [Explore the lab’s research](../../research.qmd)

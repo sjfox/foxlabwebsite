@@ -37,18 +37,20 @@ This collaborative evaluation of FluSight forecasts helped define and assess a n
 :::
 :::
 
-## Full List
+## Recent Publications
+
+\* indicates authors who contributed equally.
 
 ## 2026
 
 ::: {.publication}
-Suez E and Fox SJ. Basic baseline model design choices can substantially influence performance in collaborative forecast hubs. Preprint.
+Suez E and Fox SJ. Basic baseline model design choices can substantially influence performance in collaborative forecast hubs. *medRxiv*. Preprint, not peer reviewed. [Preprint](https://doi.org/10.64898/2026.03.18.26348748) · [Code](https://github.com/Ehsan-suez/baseline-work)
 :::
 
 ## 2025
 
 ::: {.publication}
-Gibson GC*, Fox SJ*, Javan E, Ptak SE, Ibrahim OM, Lachmann M, and Meyers LA. Improving outbreak forecasts through model augmentation. *Proceedings of the National Academy of Sciences*. [https://doi.org/10.1073/pnas.2508575122](https://doi.org/10.1073/pnas.2508575122)
+Gibson GC\*, Fox SJ\*, Javan E, Ptak SE, Ibrahim OM, Lachmann M, and Meyers LA. Improving outbreak forecasts through model augmentation. *Proceedings of the National Academy of Sciences*. [https://doi.org/10.1073/pnas.2508575122](https://doi.org/10.1073/pnas.2508575122)
 :::
 
 ::: {.publication}
@@ -74,7 +76,7 @@ Fox SJ, Kim M, Meyers LA, Reich NG, and Ray EL. Optimizing disease outbreak fore
 :::
 
 ::: {.publication}
-Egbelowo O*, Fox SJ*, Gibson GC, and Meyers LA. Model for interpreting discordant SARS-CoV-2 diagnostic test results. *Emerging Infectious Diseases*. [https://doi.org/10.3201/eid3002.230200](https://doi.org/10.3201/eid3002.230200)
+Egbelowo O\*, Fox SJ\*, Gibson GC, and Meyers LA. Model for interpreting discordant SARS-CoV-2 diagnostic test results. *Emerging Infectious Diseases*. [https://doi.org/10.3201/eid3002.230200](https://doi.org/10.3201/eid3002.230200)
 :::
 
 ::: {.publication}

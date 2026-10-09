@@ -21,6 +21,8 @@ jobs:
         with:
           version: 1.5.57
       - uses: actions/configure-pages@v5
+      - name: Check news generation
+        run: python3 -m unittest discover -s tests
       - name: Render website
         run: quarto render
       - name: Check website

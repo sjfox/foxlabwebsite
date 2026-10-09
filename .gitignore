@@ -5,6 +5,7 @@
 /.Rproj.user/
 /.publish/
 __pycache__/
+/news/_timeline.qmd
 # Original photographs remain local; publish and version the smaller web copies.
 /images/*
 !/images/web/

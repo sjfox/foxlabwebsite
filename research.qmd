@@ -14,31 +14,43 @@ We specialize in bringing together population-level infectious disease data, epi
 ::: {.feature}
 ### Respiratory Virus Forecasting
 We build forecasts for influenza, COVID-19, RSV, and related healthcare burden. The fun part is also the hard part: turning incomplete surveillance signals into useful probabilistic statements about what could happen next.
+
+[FluSight forecast evaluation](https://doi.org/10.1038/s41467-024-50601-9) · [Respiratory hospitalization burden](https://doi.org/10.3201/eid3103.240594)
 :::
 
 ::: {.feature}
 ### Forecast Hubs And Ensembles
 We study the mechanics of collaborative forecasting: how many models are enough, what makes a fair baseline, when ensembles help, and how forecast performance should be judged when the future refuses to sit still.
+
+[Ensemble design paper](https://doi.org/10.3201/eid3009.240026) · [Analysis code](https://github.com/sjfox/ensemble-size) · [Baseline design preprint](https://doi.org/10.64898/2026.03.18.26348748)
 :::
 
 ::: {.feature}
 ### Epimodulation And Model Augmentation
 We develop ways to blend empirical forecasting models with epidemic dynamics. Epimodulation is one example: a framework for adding outbreak structure after a forecast is generated, especially when models struggle near epidemic peaks.
+
+[Epimodulation paper](https://doi.org/10.1073/pnas.2508575122) · [Project explainer](blog/2025-11-12-epimodulation/)
 :::
 
 ::: {.feature}
 ### International Public Health Forecasting
 We collaborate on forecasting work in places where data streams, seasonal patterns, healthcare systems, and decision contexts differ from the United States. Better forecasting should travel well, but it should not pretend every setting is the same.
+
+[Forecasting work in Paraguay](news/index.qmd#mid-season-report-in-paraguay) · [CDC forecasting collaboration](news/index.qmd#cdc-on-site-forecasting-meeting)
 :::
 
 ::: {.feature}
 ### Genomic Surveillance And Sampling
 We study how pathogen genomic data can inform outbreak response, including sampling design, representativeness, and the wonderfully practical question of how much data are enough to act responsibly.
+
+[Genomic sampling research at InsightNet](news/index.qmd#cdc-insightnet-annual-meeting)
 :::
 
 ::: {.feature}
 ### Modeling Training And Translation
 We create training materials and decision frameworks that help public health practitioners choose, interpret, and challenge infectious disease models instead of treating them like black boxes.
+
+[Simulation-based inference course materials](https://rubbislam.quarto.pub/episim/) · [Public health modeling training](news/index.qmd#filming-public-health-modeling-training-in-austin)
 :::
 :::
 

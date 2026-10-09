@@ -1,0 +1,25 @@
+name: Check website links
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.5.57
+      - name: Render website
+        run: quarto render
+      - name: Check news generation
+        run: python3 -m unittest discover -s tests
+      - name: Check local and external links
+        run: python3 scripts/check_site.py docs --external

@@ -4,7 +4,7 @@ description: "Members of The Fox Lab."
 image: images/web/people/spencer-fox.jpeg
 ---
 
-The Fox Lab is a small, collaborative group of modelers, data scientists, epidemiologists, and public health thinkers. This page is intentionally easy to edit as the lab grows.
+The Fox Lab is a small, collaborative group of modelers, data scientists, epidemiologists, and public health thinkers.
 
 ::: {.people-grid}
 ::: {.person}
@@ -14,32 +14,35 @@ The Fox Lab is a small, collaborative group of modelers, data scientists, epidem
 Principal investigator · Assistant Professor  
 School of Informatics, Computing, and Cyber Systems  
 Northern Arizona University  
-spencer.fox@nau.edu  
+[spencer.fox@nau.edu](mailto:spencer.fox@nau.edu)  
 [View profile](people/spencer-fox/index.qmd)
 :::
 
 ::: {.person}
 ![Bren Case](images/web/people/bren-case.jpg){fig-alt="Bren Case" loading="lazy" decoding="async"}
 
-### Bren Case
+### [Bren Case](people/bren-case/index.qmd)
 Postdoctoral Associate, Epidemiology & Biostatistics  
-bcase@uga.edu
+[bcase@uga.edu](mailto:bcase@uga.edu)  
+[View profile](people/bren-case/index.qmd)
 :::
 
 ::: {.person}
 ![Annalise Cramer](images/web/people/annalise-cramer.jpg){fig-alt="Annalise Cramer" loading="lazy" decoding="async"}
 
-### Annalise Cramer
+### [Annalise Cramer](people/annalise-cramer/index.qmd)
 PhD student, Epidemiology & Biostatistics  
-Annalise.Cramer1@uga.edu
+[Annalise.Cramer1@uga.edu](mailto:Annalise.Cramer1@uga.edu)  
+[View profile](people/annalise-cramer/index.qmd)
 :::
 
 ::: {.person}
 ![Maya Salcedo](images/web/people/maya-salcedo.jpg){fig-alt="Maya Salcedo" loading="lazy" decoding="async"}
 
-### Maya Salcedo
+### [Maya Salcedo](people/maya-salcedo/index.qmd)
 PhD student, Institute of Bioinformatics  
-Mariah.Salcedo@uga.edu
+[Mariah.Salcedo@uga.edu](mailto:Mariah.Salcedo@uga.edu)  
+[View profile](people/maya-salcedo/index.qmd)
 :::
 
 ::: {.person}

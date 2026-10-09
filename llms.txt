@@ -4,19 +4,19 @@ The Fox Lab at Northern Arizona University develops infectious disease models, o
 
 ## Primary URL
 
-https://www.foxandtheflu.com/
+https://sjfox.github.io/foxlabwebsite/
 
 ## Key Pages
 
-- Home: https://www.foxandtheflu.com/
-- Research: https://www.foxandtheflu.com/research.html
-- People: https://www.foxandtheflu.com/people.html
-- Lab Culture: https://www.foxandtheflu.com/culture.html
-- Publications: https://www.foxandtheflu.com/publications.html
-- Lab News: https://www.foxandtheflu.com/news/
-- Blog: https://www.foxandtheflu.com/blog/
-- Opportunities: https://www.foxandtheflu.com/opportunities.html
-- Contact: https://www.foxandtheflu.com/contact.html
+- Home: https://sjfox.github.io/foxlabwebsite/
+- Research: https://sjfox.github.io/foxlabwebsite/research.html
+- People: https://sjfox.github.io/foxlabwebsite/people.html
+- Lab Culture: https://sjfox.github.io/foxlabwebsite/culture.html
+- Publications: https://sjfox.github.io/foxlabwebsite/publications.html
+- Lab News: https://sjfox.github.io/foxlabwebsite/news/
+- Blog: https://sjfox.github.io/foxlabwebsite/blog/
+- Opportunities: https://sjfox.github.io/foxlabwebsite/opportunities.html
+- Contact: https://sjfox.github.io/foxlabwebsite/contact.html
 
 ## Expertise
 

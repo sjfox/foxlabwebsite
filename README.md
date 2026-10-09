@@ -50,18 +50,28 @@ The initial address is <https://sjfox.github.io/foxlabwebsite/>. The intended cu
 4. After DNS validation and certificate issuance, enable **Enforce HTTPS**.
 5. Verify both domain names and direct links to blog/profile pages.
 
-The root `CNAME` file and Quarto `site-url` already contain the intended domain. They do not change public DNS or GitHub Pages settings on their own when publishing with Actions.
+The root `CNAME` file records the intended domain. Sharing metadata currently uses the working GitHub address. After connecting the domain, update `website.site-url` in `_quarto.yml` and the base URLs in `assets/structured-data.html` and `llms.txt`. These files do not change public DNS or GitHub Pages settings on their own.
 
 ## Checks
 
-After rendering, run `python3 scripts/check_site.py docs`. This checks local links, anchor targets, referenced assets, and image alternative-text attributes. GitHub Actions runs the same check before deploying.
+After rendering, run `python3 scripts/check_site.py docs`. This checks local links, anchor targets, referenced assets, image alternative-text attributes, and sharing metadata. GitHub Actions runs the same check before deploying.
+
+For external links, run `python3 scripts/check_site.py docs --external`. The **Check website links** workflow runs this on pull requests, every Monday, and on manual request. A confirmed 404 or 410 fails the check; timeouts, rate limiting, and bot blocking are reported as unverified rather than mislabeled as broken.
 
 ## Content model
 
 - Main pages live at the project root.
-- Long-form blog posts live in `blog/YYYY-MM-DD-slug/index.qmd`.
-- Lab news timeline entries live in `data/news.json`.
+- Long-form blog posts live in `blog/YYYY-MM-DD-slug/index.qmd`. The blog listing discovers them automatically.
+- Lab news timeline entries live in `data/news.json`. The pre-render step generates `news/_timeline.qmd`, including topic filters, sorted entries, accessible image descriptions, and stable anchors. Do not edit the generated include.
 - Seed publication metadata lives in `data/publications.csv`.
 - Original WordPress media and full-size photographs are retained locally and excluded from Git and deployment.
 - Published image copies live in `images/web/`; see `images/README.md`.
 - `llms.txt` gives AI agents a concise map of the site, expertise, consulting areas, and contact details.
+
+## Editing news
+
+Edit `data/news.json`, then run `quarto render` or restart `quarto preview` to regenerate the timeline. Each entry needs `date` (`YYYY-MM` or `YYYY-MM-DD`), `title`, `summary`, and `details`; `tags`, `images`, and `links` are optional. Entries are sorted newest first. Titles must be unique; each generates a linkable anchor, so keep established titles stable.
+
+Images can be a relative path string or an object with `src` and a descriptive `alt`. Paths are relative to the rendered `news/` page, for example `../images/web/news/sismid-2025.jpeg`. Link objects have `label` and an HTTP(S) `href`. Text is escaped as plain text to keep updates safe and predictable.
+
+The generated timeline remains readable without JavaScript. With JavaScript, visitors can search, filter topics, expand entries with the keyboard, and link directly to a specific update.

@@ -1,0 +1,15 @@
+---
+title: "Page not found"
+description: "Find your way back to The Fox Lab website."
+search: false
+---
+
+That page may have moved, or the address may be incomplete. Use the search button above, or start with one of these pages:
+
+- [The Fox Lab home](https://sjfox.github.io/foxlabwebsite/)
+- [Research](https://sjfox.github.io/foxlabwebsite/research.html)
+- [People](https://sjfox.github.io/foxlabwebsite/people.html)
+- [Publications](https://sjfox.github.io/foxlabwebsite/publications.html)
+- [Contact](https://sjfox.github.io/foxlabwebsite/contact.html)
+
+Looking for an older post? The [WordPress archive](https://thefoxlab.wordpress.com/) remains available.

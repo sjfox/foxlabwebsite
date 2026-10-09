@@ -8,7 +8,7 @@ body-class: profile-page
 
 ::: {.profile-hero}
 ::: {.profile-photo}
-![Spencer J. Fox](../../images/web/people/spencer-fox.jpeg){fig-alt="Spencer J. Fox" loading="lazy" decoding="async"}
+![Spencer J. Fox](../../images/web/people/spencer-fox.jpeg){fig-alt="Spencer J. Fox" loading="eager" decoding="async"}
 :::
 
 ::: {.profile-intro}

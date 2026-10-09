@@ -1,0 +1,44 @@
+---
+title: "Maya Salcedo"
+description: "Maya Salcedo, phd student, institute of bioinformatics, and member of The Fox Lab."
+image: ../../images/web/people/maya-salcedo.jpg
+title-block-style: none
+body-class: profile-page
+---
+
+::: {.profile-hero}
+::: {.profile-photo}
+![Maya Salcedo](../../images/web/people/maya-salcedo.jpg){fig-alt="Portrait of Maya Salcedo" loading="eager" decoding="async"}
+:::
+
+::: {.profile-intro}
+<p class="profile-kicker">PhD student, Institute of Bioinformatics</p>
+
+# Maya Salcedo
+
+Maya Salcedo is a PhD student in the Institute of Bioinformatics at the University of Georgia and a member of The Fox Lab. Research in the lab includes Bayesian infectious disease forecasting.
+
+::: {.profile-links}
+[Email](mailto:Mariah.Salcedo@uga.edu)
+[Back to the lab](../../people.qmd)
+:::
+:::
+:::
+
+## Research And Lab Highlights
+
+### Bayesian forecasting
+
+Maya presented a flexible framework for forecasting seasonal infectious disease dynamics while accounting for spatial correlations at the College of Public Health Research Day.
+
+[Read the lab update](../../news/index.qmd#maya-presents-at-cph-research-day)
+
+### Public health collaboration
+
+Maya joined lab colleagues and CDC collaborators to discuss international respiratory virus forecasts using FluNet data.
+
+[Read the lab update](../../news/index.qmd#cdc-on-site-forecasting-meeting)
+
+## Get In Touch
+
+[Email Maya Salcedo](mailto:Mariah.Salcedo@uga.edu) · [Explore the lab’s research](../../research.qmd)

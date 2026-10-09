@@ -52,7 +52,10 @@ h2 {
 }
 
 .navbar-logo {
-  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  max-height: 28px;
+  border-radius: 0;
 }
 
 main:has(.hero) > #title-block-header {
@@ -398,12 +401,22 @@ main:has(.profile-hero) > #title-block-header {
 }
 
 .timeline-detail {
-  display: none;
+  display: block;
   padding: 0 1rem 1rem;
 }
 
-.timeline-item.is-open .timeline-detail {
+.timeline.news-enhanced .timeline-detail {
+  display: none;
+}
+
+.timeline.news-enhanced .timeline-item.is-open .timeline-detail {
   display: block;
+}
+
+.hero .affiliation {
+  margin-bottom: 1rem;
+  font-size: clamp(0.95rem, 1.5vw, 1.1rem);
+  color: #fffdf8;
 }
 
 .timeline-gallery {

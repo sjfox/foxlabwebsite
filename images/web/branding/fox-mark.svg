@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>The Fox Lab</title>
+  <path fill="#b64d2c" d="M7 4 25 17h14L57 4l-3 29c-2 12-12 22-22 27C22 55 12 45 10 33Z"/>
+  <path fill="#fffdf8" d="m13 33 19 12 19-12c-2 10-10 17-19 23-9-6-17-13-19-23Z"/>
+  <path fill="#17212b" d="m8 8 5 18 8-7Zm48 0-13 11 8 7Z"/>
+  <circle cx="22" cy="31" r="3" fill="#17212b"/>
+  <circle cx="42" cy="31" r="3" fill="#17212b"/>
+  <path fill="#17212b" d="M26 45h12l-6 7Z"/>
+</svg>

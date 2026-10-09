@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: python3 scripts/build_news.py
   render:
     - "*.qmd"
     - "blog/**/*.qmd"
@@ -14,15 +15,19 @@ project:
 
 website:
   title: "The Fox Lab"
-  site-url: "https://www.foxandtheflu.com"
+  site-url: "https://sjfox.github.io/foxlabwebsite"
   description: "Outbreak forecasting and infectious disease modeling at Northern Arizona University."
-  favicon: images/web/branding/favicon.png
+  image: https://sjfox.github.io/foxlabwebsite/images/web/home/grand-canyon.jpeg
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+  favicon: images/web/branding/fox-mark.svg
   search:
     location: navbar
     type: overlay
     copy-button: true
   navbar:
-    logo: images/web/branding/portrait.jpg
+    logo: images/web/branding/fox-mark.svg
     logo-alt: "The Fox Lab home"
     left:
       - text: "Research"

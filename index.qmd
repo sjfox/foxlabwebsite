@@ -10,6 +10,10 @@ body-class: home
 ::: {.hero-copy}
 # The Fox Lab
 
+::: {.affiliation}
+Northern Arizona University · Flagstaff, Arizona
+:::
+
 ::: {.dek}
 We build models and forecasts to support public health outbreak responses.
 :::
@@ -23,9 +27,6 @@ We build models and forecasts to support public health outbreak responses.
 :::
 :::
 
-::: {.group-photo}
-![The Grand Canyon, about 1.5 hours from Flagstaff.](images/web/home/grand-canyon.jpeg){fig-alt="The Grand Canyon, about 1.5 hours from Flagstaff." loading="lazy" decoding="async"}
-:::
 
 ## What We Work On
 
