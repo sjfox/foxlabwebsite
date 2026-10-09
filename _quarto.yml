@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "blog/**/*.qmd"
+    - "news/**/*.qmd"
+    - "people/**/*.qmd"
+  resources:
+    - assets/
+    - data/
+    - images/web/
+    - llms.txt
+
+website:
+  title: "The Fox Lab"
+  site-url: "https://www.foxandtheflu.com"
+  description: "Outbreak forecasting and infectious disease modeling at Northern Arizona University."
+  favicon: images/web/branding/favicon.png
+  search:
+    location: navbar
+    type: overlay
+    copy-button: true
+  navbar:
+    logo: images/web/branding/portrait.jpg
+    logo-alt: "The Fox Lab home"
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Lab Culture"
+        href: culture.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Lab News"
+        href: news/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Opportunities"
+        href: opportunities.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "Bluesky"
+        href: https://bsky.app/profile/foxandtheflu.bsky.app
+  page-footer:
+    left: "The Fox Lab · Northern Arizona University · Flagstaff, Arizona"
+    right: "Built with Quarto."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header: assets/structured-data.html
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

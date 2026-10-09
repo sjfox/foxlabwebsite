@@ -1,0 +1,11 @@
+/.quarto/
+/_freeze/
+/docs/
+.DS_Store
+/.Rproj.user/
+/.publish/
+__pycache__/
+# Original photographs remain local; publish and version the smaller web copies.
+/images/*
+!/images/web/
+!/images/README.md

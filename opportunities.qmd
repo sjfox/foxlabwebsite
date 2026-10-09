@@ -1,0 +1,48 @@
+---
+title: "Opportunities"
+description: "Current opportunities to join The Fox Lab."
+---
+
+We are looking for people who want to build infectious disease models and forecasting tools that public health partners can actually use. The lab is a good fit for people who enjoy quantitative puzzles, care about public health impact, and want to work in the lively overlap between statistics, computation, epidemiology, and real-world decision-making.
+
+::: {.opportunity}
+## Postdoctoral Researchers
+
+We are interested in postdocs who want to lead ambitious work in infectious disease forecasting, forecast hub design, model augmentation, genomic surveillance, or public health modeling infrastructure. A postdoc in the Fox Lab would have room to shape their own research direction while contributing to projects with public health and academic partners.
+
+Strong candidates might have experience in one or more of these areas: infectious disease modeling, Bayesian statistics, machine learning, simulation, forecast evaluation, software development, public health surveillance data, or pathogen genomics. Nobody needs to cover all of these areas. In fact, please do not wait until you look like an impossible job ad.
+
+Postdocs should expect to publish papers, build reusable tools or analyses, mentor junior lab members, present work at conferences, and develop a research program that supports their next career step.
+:::
+
+::: {.opportunity}
+## Doctoral Students
+
+We are actively seeking doctoral students interested in infectious disease forecasting and related computational public health projects. Spencer can currently accept students through NAU Informatics graduate programs, including informatics, health and bioinformatics, and ecoinformatics.
+
+Students could work on projects involving respiratory virus forecasting, ensemble design, epimodulation, international outbreak forecasting, genomic surveillance, public health decision support, or new modeling methods.
+
+You do not need to arrive as a finished modeler. The most important qualities are curiosity, persistence, care with data, excitement about public health, and a willingness to learn technical skills in a collaborative environment.
+:::
+
+::: {.opportunity}
+## Undergraduate And Master's Students
+
+Students interested in research experience are welcome to reach out, especially if they are excited about data analysis, R programming, visualization, infectious disease dynamics, public health, or computational biology. Projects can be shaped around experience level and available time.
+:::
+
+## What To Send
+
+If you are interested in joining the lab, email [spencer.fox@nau.edu](mailto:spencer.fox@nau.edu) with:
+
+- a short note about why the lab's work interests you
+- the kind of position you are looking for
+- your CV or resume
+- any relevant research, coding, public health, or data experience
+- one or two project areas from the [Research](research.qmd) page that caught your attention
+
+It is completely fine if your ideas are still early. A good first email does not need to be polished into submission-ready prose. It just needs to start a real conversation.
+
+## What The Lab Offers
+
+The Fox Lab aims to provide careful mentoring, collaborative projects, quantitative training, publication opportunities, conference participation, and a research environment where people can grow into independent scientists. We value open communication, reproducible work, kindness, intellectual honesty, and science that stays connected to the people it is meant to serve.

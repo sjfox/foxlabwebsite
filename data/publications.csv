@@ -1,0 +1,13 @@
+year,title,venue,doi,url,topic
+2026,"Basic baseline model design choices can substantially influence performance in collaborative forecast hubs","Preprint","","","Forecast hubs"
+2025,"Improving outbreak forecasts through model augmentation","Proceedings of the National Academy of Sciences","10.1073/pnas.2508575122","https://doi.org/10.1073/pnas.2508575122","Model augmentation"
+2025,"Measles is resurging in the Americas and the world is watching","Nature Reviews Microbiology","10.1038/s41579-025-01198-3","https://doi.org/10.1038/s41579-025-01198-3","Measles"
+2025,"Characterizing spatial epidemiology in a heterogeneous transmission landscape using the spatial transmission count statistic","Communications Medicine","10.1038/s43856-025-00888-6","https://doi.org/10.1038/s43856-025-00888-6","Spatial epidemiology"
+2025,"Annual hospitalizations for COVID-19, influenza, and respiratory syncytial virus, United States, 2023-2024","Emerging Infectious Diseases","10.3201/eid3103.240594","https://doi.org/10.3201/eid3103.240594","Respiratory viruses"
+2025,"The interplay between evolutionary and immunological dynamics regulates virus variant emergence and competition","Mathematical Modelling of Natural Phenomena","10.1051/mmnp/2025006","https://doi.org/10.1051/mmnp/2025006","Virus evolution"
+2024,"Optimizing disease outbreak forecast ensembles","Emerging Infectious Diseases","10.3201/eid3009.240026","https://doi.org/10.3201/eid3009.240026","Ensemble forecasting"
+2024,"Model for interpreting discordant SARS-CoV-2 diagnostic test results","Emerging Infectious Diseases","10.3201/eid3002.230200","https://doi.org/10.3201/eid3002.230200","COVID-19 testing"
+2024,"Projecting Omicron scenarios in the US while tracking population-level immunity","Epidemics","10.1016/j.epidem.2024.100746","https://doi.org/10.1016/j.epidem.2024.100746","COVID-19 scenarios"
+2024,"Effectiveness of interventions to reduce COVID-19 transmission in schools","Epidemics","10.1016/j.epidem.2024.100762","https://doi.org/10.1016/j.epidem.2024.100762","School interventions"
+2024,"Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations","Nature Communications","10.1038/s41467-024-50601-9","https://doi.org/10.1038/s41467-024-50601-9","Influenza forecasting"
+2024,"Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 Scenario Modeling Hub","PLOS Medicine","10.1371/journal.pmed.1004387","https://doi.org/10.1371/journal.pmed.1004387","COVID-19 vaccination"

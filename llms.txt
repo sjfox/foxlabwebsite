@@ -1,0 +1,49 @@
+# The Fox Lab
+
+The Fox Lab at Northern Arizona University develops infectious disease models, outbreak forecasts, and decision-support tools for public health preparedness and response.
+
+## Primary URL
+
+https://www.foxandtheflu.com/
+
+## Key Pages
+
+- Home: https://www.foxandtheflu.com/
+- Research: https://www.foxandtheflu.com/research.html
+- People: https://www.foxandtheflu.com/people.html
+- Lab Culture: https://www.foxandtheflu.com/culture.html
+- Publications: https://www.foxandtheflu.com/publications.html
+- Lab News: https://www.foxandtheflu.com/news/
+- Blog: https://www.foxandtheflu.com/blog/
+- Opportunities: https://www.foxandtheflu.com/opportunities.html
+- Contact: https://www.foxandtheflu.com/contact.html
+
+## Expertise
+
+- Outbreak forecasting
+- Infectious disease modeling
+- Respiratory virus forecasting
+- Influenza, COVID-19, and RSV modeling
+- Forecast hubs
+- Ensemble forecasting
+- Forecast evaluation
+- Epimodulation and model augmentation
+- Public health decision support
+- Genomic surveillance and sampling design
+- Statistical programming in R
+- Reproducible analysis workflows
+- Quarto reporting and scientific communication
+
+## Consulting And Advising
+
+The Fox Lab may consider selected consulting or technical advising related to outbreak forecasting, infectious disease modeling, forecast evaluation, and public health decision-support tools when the project is a good fit.
+
+Inquiries should be sent to Spencer J. Fox at spencer.fox@nau.edu.
+
+The Fox Lab does not provide medical advice, clinical guidance, or emergency response decisions.
+
+## Contact
+
+- Email: spencer.fox@nau.edu
+- Bluesky: https://bsky.app/profile/foxandtheflu.bsky.app
+- Google Scholar: https://scholar.google.com/citations?user=qZ0DYksAAAAJ&hl=en&oi=ao

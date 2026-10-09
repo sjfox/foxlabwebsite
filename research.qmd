@@ -1,0 +1,53 @@
+---
+title: "Research"
+description: "Research themes in outbreak forecasting and infectious disease modeling."
+image: images/web/publications/pnas-epimodulation-covid-results.png
+---
+
+The Fox Lab studies infectious disease dynamics with one practical goal: make public health forecasting sharper, more transparent, and more useful when decisions are moving fast.
+
+We specialize in bringing together population-level infectious disease data, epidemiological models, statistical inference, simulation, and forecast evaluation. Much of our work focuses on respiratory viruses like influenza, COVID-19, and RSV, while keeping the modeling toolbox flexible enough for whatever infectious disease question comes next.
+
+## Project Areas
+
+::: {.feature-grid}
+::: {.feature}
+### Respiratory Virus Forecasting
+We build forecasts for influenza, COVID-19, RSV, and related healthcare burden. The fun part is also the hard part: turning incomplete surveillance signals into useful probabilistic statements about what could happen next.
+:::
+
+::: {.feature}
+### Forecast Hubs And Ensembles
+We study the mechanics of collaborative forecasting: how many models are enough, what makes a fair baseline, when ensembles help, and how forecast performance should be judged when the future refuses to sit still.
+:::
+
+::: {.feature}
+### Epimodulation And Model Augmentation
+We develop ways to blend empirical forecasting models with epidemic dynamics. Epimodulation is one example: a framework for adding outbreak structure after a forecast is generated, especially when models struggle near epidemic peaks.
+:::
+
+::: {.feature}
+### International Public Health Forecasting
+We collaborate on forecasting work in places where data streams, seasonal patterns, healthcare systems, and decision contexts differ from the United States. Better forecasting should travel well, but it should not pretend every setting is the same.
+:::
+
+::: {.feature}
+### Genomic Surveillance And Sampling
+We study how pathogen genomic data can inform outbreak response, including sampling design, representativeness, and the wonderfully practical question of how much data are enough to act responsibly.
+:::
+
+::: {.feature}
+### Modeling Training And Translation
+We create training materials and decision frameworks that help public health practitioners choose, interpret, and challenge infectious disease models instead of treating them like black boxes.
+:::
+:::
+
+## How We Work
+
+We like models that have to earn their keep. That means building methods, testing them carefully, explaining their limits, and working with public health partners early enough that the modeling question is still connected to the decision.
+
+We are especially interested in interdisciplinary work that integrates ecological, behavioral, immunological, and evolutionary dynamics into infectious disease models. We also care about the craft of doing science well: reproducible analysis, clear writing, thoughtful visualization, generous collaboration, and a healthy skepticism of our own favorite ideas.
+
+## Tools And Skills
+
+Our projects often involve R, statistical programming, Bayesian and simulation-based inference, forecast evaluation, reproducible workflows, data visualization, and collaboration with public health partners. People do not need to arrive knowing all of these things. Curiosity, care, humility around data, and a willingness to learn are more important than checking every technical box on day one.

@@ -1,0 +1,69 @@
+---
+title: "Member Name"
+description: "A short description for search results and link previews."
+image: ../../images/web/people/member-photo.jpg
+title-block-style: none
+body-class: profile-page
+---
+
+<!--
+This underscored file is a reusable source template and is not rendered as a public page.
+Copy it to people/first-last/index.qmd, then replace the example content.
+Sections are optional: keep only the ones that feel natural for the person.
+-->
+
+::: {.profile-hero}
+::: {.profile-photo}
+![Member Name](../../images/web/people/member-photo.jpg){fig-alt="Member Name" loading="lazy" decoding="async"}
+:::
+
+::: {.profile-intro}
+<p class="profile-kicker">Role · Research area</p>
+
+# Member Name
+
+Write a short, first-person introduction here.
+
+::: {.profile-links}
+[Email](mailto:email@example.edu)
+[Google Scholar](https://scholar.google.com/)
+[Back to the lab](../../people.qmd)
+:::
+:::
+:::
+
+## The Short Version
+
+Describe the person’s work in approachable language.
+
+## Questions I Keep Coming Back To
+
+::: {.profile-grid}
+::: {.profile-card}
+### First Question Or Interest
+
+Explain why this question is interesting.
+:::
+
+::: {.profile-card}
+### Second Question Or Interest
+
+Explain why this question is interesting.
+:::
+:::
+
+## How I Like To Work
+
+Share something about collaboration, mentoring, or research style.
+
+## Away From The Computer
+
+Add whatever the member would genuinely like to share outside their formal biography.
+
+## A Few Places To Start
+
+Link to selected projects, publications, code, posters, talks, or lab news.
+
+## Want To Talk?
+
+Add a friendly invitation and preferred contact method.

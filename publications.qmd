@@ -1,0 +1,98 @@
+---
+title: "Publications"
+description: "Selected publications from The Fox Lab."
+---
+
+Our publications sit at the intersection of infectious disease dynamics, outbreak forecasting, public health decision-making, and the practical business of making models behave when data are incomplete. A full and continuously updated list is available on [Google Scholar](https://scholar.google.com/citations?user=qZ0DYksAAAAJ&hl=en&oi=ao).
+
+## Selected Papers
+
+::: {.feature-grid}
+::: {.feature}
+### Improving Outbreak Forecasts Through Model Augmentation
+This PNAS paper introduces epimodulation, a way to improve empirical outbreak forecasts by adding epidemiological dynamics after forecasts are generated. It tackles a very practical forecasting problem: models often get weird right when epidemics get interesting.
+
+[Paper](https://doi.org/10.1073/pnas.2508575122) · [Blog post](blog/2025-11-12-epimodulation/)
+:::
+
+::: {.feature}
+### Optimizing Disease Outbreak Forecast Ensembles
+This Emerging Infectious Diseases paper asks a practical question for forecast hubs: how many models are needed to build a strong ensemble? The answer helps clarify participation targets, baseline comparisons, and design principles for collaborative forecasting systems.
+
+[Paper](https://doi.org/10.3201/eid3009.240026) · [Blog post](blog/2024-10-28-ensemble-size/)
+:::
+
+::: {.feature}
+### Annual Hospitalizations For COVID-19, Influenza, And RSV
+This work compares the burden of three major respiratory viruses in the United States during 2023-2024. It connects infectious disease modeling to the healthcare planning questions that motivate much of the lab's forecasting work.
+
+[Paper](https://doi.org/10.3201/eid3103.240594)
+:::
+
+::: {.feature}
+### FluSight Forecast Evaluation
+This collaborative evaluation of FluSight forecasts helped define and assess a new target for laboratory-confirmed influenza hospitalizations, a key step for improving operational respiratory virus forecasting.
+
+[Paper](https://doi.org/10.1038/s41467-024-50601-9)
+:::
+:::
+
+## Full List
+
+## 2026
+
+::: {.publication}
+Suez E and Fox SJ. Basic baseline model design choices can substantially influence performance in collaborative forecast hubs. Preprint.
+:::
+
+## 2025
+
+::: {.publication}
+Gibson GC*, Fox SJ*, Javan E, Ptak SE, Ibrahim OM, Lachmann M, and Meyers LA. Improving outbreak forecasts through model augmentation. *Proceedings of the National Academy of Sciences*. [https://doi.org/10.1073/pnas.2508575122](https://doi.org/10.1073/pnas.2508575122)
+:::
+
+::: {.publication}
+Winter AK and Fox SJ. Measles is resurging in the Americas and the world is watching. *Nature Reviews Microbiology*. [https://doi.org/10.1038/s41579-025-01198-3](https://doi.org/10.1038/s41579-025-01198-3)
+:::
+
+::: {.publication}
+Lyu L, Veytsel G, Stott G, Fox SJ, Dailey C, Damodaran L, Fujimoto K, Brown P, Sealy R, Brown A, Alabady M, and Bahl J. Characterizing spatial epidemiology in a heterogeneous transmission landscape using the spatial transmission count statistic. *Communications Medicine*. [https://doi.org/10.1038/s43856-025-00888-6](https://doi.org/10.1038/s43856-025-00888-6)
+:::
+
+::: {.publication}
+Bi K, Bandekar SR, Bouchnita A, Fox SJ, and Meyers LA. Annual hospitalizations for COVID-19, influenza, and respiratory syncytial virus, United States, 2023-2024. *Emerging Infectious Diseases*. [https://doi.org/10.3201/eid3103.240594](https://doi.org/10.3201/eid3103.240594)
+:::
+
+::: {.publication}
+Bouchnita A, Bandekar SR, Bi K, Rouhani BD, Fox SJ, and Garcia JA. The interplay between evolutionary and immunological dynamics regulates virus variant emergence and competition. *Mathematical Modelling of Natural Phenomena*. [https://doi.org/10.1051/mmnp/2025006](https://doi.org/10.1051/mmnp/2025006)
+:::
+
+## 2024
+
+::: {.publication}
+Fox SJ, Kim M, Meyers LA, Reich NG, and Ray EL. Optimizing disease outbreak forecast ensembles. *Emerging Infectious Diseases*. [https://doi.org/10.3201/eid3009.240026](https://doi.org/10.3201/eid3009.240026)
+:::
+
+::: {.publication}
+Egbelowo O*, Fox SJ*, Gibson GC, and Meyers LA. Model for interpreting discordant SARS-CoV-2 diagnostic test results. *Emerging Infectious Diseases*. [https://doi.org/10.3201/eid3002.230200](https://doi.org/10.3201/eid3002.230200)
+:::
+
+::: {.publication}
+Bouchnita A, Bi K, Fox SJ, and Meyers LA. Projecting Omicron scenarios in the US while tracking population-level immunity. *Epidemics*. [https://doi.org/10.1016/j.epidem.2024.100746](https://doi.org/10.1016/j.epidem.2024.100746)
+:::
+
+::: {.publication}
+Pasco R, Fox SJ, Lachmann M, and Meyers LA. Effectiveness of interventions to reduce COVID-19 transmission in schools. *Epidemics*. [https://doi.org/10.1016/j.epidem.2024.100762](https://doi.org/10.1016/j.epidem.2024.100762)
+:::
+
+::: {.publication}
+Mathis SM, Webber AE, Fox SJ, Biggerstaff M, Borchering RK, and collaborators. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. *Nature Communications*. [https://doi.org/10.1038/s41467-024-50601-9](https://doi.org/10.1038/s41467-024-50601-9)
+:::
+
+::: {.publication}
+Jung S, Loo SL, Fox SJ, Viboud C, Lessler J, and collaborators. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 Scenario Modeling Hub. *PLOS Medicine*. [https://doi.org/10.1371/journal.pmed.1004387](https://doi.org/10.1371/journal.pmed.1004387)
+:::
+
+## Earlier Publications
+
+Earlier work includes studies on COVID-19 scenario modeling, testing strategies, surveillance, intervention effectiveness, arboviral emergence, mpox reproduction number, and collaborative influenza forecasting. Use the [Google Scholar profile](https://scholar.google.com/citations?user=qZ0DYksAAAAJ&hl=en&oi=ao) for the complete indexed list.

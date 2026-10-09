@@ -1,0 +1,19 @@
+---
+title: "Blog"
+description: "Long-form posts from The Fox Lab."
+listing:
+  contents:
+    - "2025-11-12-epimodulation/index.qmd"
+    - "2025-10-23-nau-move/index.qmd"
+    - "2024-10-28-ensemble-size/index.qmd"
+    - "2024-08-14-hiring/index.qmd"
+    - "2022-08-01-lab-established/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  page-size: 10
+  image-lazy-loading: true
+---
+
+Longer notes from the lab: paper explainers, research updates, moves, opportunities, and reflections.

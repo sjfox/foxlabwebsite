@@ -1,0 +1,59 @@
+---
+title: "Lab Culture"
+description: "How The Fox Lab works, mentors, and collaborates."
+---
+
+The Fox Lab is for people who want to do careful quantitative science without losing sight of the humans on the other end of the model. We work on hard problems with real uncertainty, imperfect data, shifting timelines, and decisions that matter outside academia. That means the lab has to be technically serious, deeply collaborative, and honest about what models can and cannot do.
+
+## Mentoring
+
+Mentoring in the lab is built around independence with support. Trainees should expect regular feedback, help shaping research questions, guidance on writing and presentations, and room to develop their own scientific taste. The goal is not just to finish projects. The goal is to help people become thoughtful, confident scientists who can explain what they did, why it mattered, and what still makes them suspicious.
+
+Different people need different kinds of mentoring at different stages. Some weeks call for detailed technical troubleshooting. Others call for big-picture project planning, writing support, or help deciding which opportunity to pursue next. We try to make those needs explicit, because nobody should have to telepathically infer what good mentoring is supposed to look like.
+
+## How We Choose Projects
+
+Good Fox Lab projects usually light up three things at once:
+
+- an important infectious disease or public health question
+- a modeling, statistical, or computational challenge
+- a realistic path to data, implementation, and communication
+
+We value projects that can produce strong science and useful tools, especially when they connect to partners who care about the answer before the paper exists.
+
+## Collaboration
+
+Most of our work is collaborative. Lab members should expect to work with epidemiologists, statisticians, public health practitioners, computational scientists, and domain experts. That kind of work rewards clear communication, shared credit, careful documentation, and respect for expertise that looks different from your own.
+
+We also value reproducibility. Code, data workflows, figures, and written explanations should be clear enough that future-you and actual-other-people can understand what happened and why.
+
+## What Trainees Learn
+
+Depending on the project, trainees may build skills in:
+
+- infectious disease modeling
+- outbreak forecasting
+- statistical programming in R
+- Bayesian and simulation-based inference
+- forecast evaluation
+- data visualization
+- reproducible research workflows
+- scientific writing
+- public health communication
+- collaborative software and analysis practices
+
+Nobody is expected to arrive knowing everything. The lab is a place to learn by doing, with enough structure and feedback to make that learning sustainable.
+
+## Expectations
+
+We take the science seriously and try to treat people generously. Lab members are expected to communicate clearly, follow through on commitments, document their work, ask for help when stuck, and contribute to a research environment where people can think out loud without feeling small.
+
+We do not expect people to be constantly available. Sustainable science requires rest, trust, and planning. The lab aims to build a culture where ambitious work and a healthy life can coexist without pretending that burnout is a badge of honor.
+
+## Inclusion
+
+The lab is committed to an inclusive environment where people from different backgrounds, identities, disciplines, and career paths can do excellent work. We want lab members to feel respected, challenged, supported, and able to bring their full intelligence to the work.
+
+## After The Lab
+
+The skills developed here can lead in many directions: academia, public health agencies, government, industry, nonprofit research, data science, computational biology, and scientific software. We want people to leave the lab with strong work, strong judgment, good collaborators, and a clearer sense of the career they want to build.

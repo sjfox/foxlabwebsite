@@ -1,0 +1,106 @@
+---
+title: "Spencer J. Fox"
+description: "Spencer Fox is an epidemiologist, modeler, and principal investigator of The Fox Lab."
+image: ../../images/web/people/spencer-fox.jpeg
+title-block-style: none
+body-class: profile-page
+---
+
+::: {.profile-hero}
+::: {.profile-photo}
+![Spencer J. Fox](../../images/web/people/spencer-fox.jpeg){fig-alt="Spencer J. Fox" loading="lazy" decoding="async"}
+:::
+
+::: {.profile-intro}
+<p class="profile-kicker">Principal investigator · Outbreak forecaster</p>
+
+# Spencer J. Fox
+
+I’m an Assistant Professor in the [School of Informatics, Computing, and Cyber Systems](https://in.nau.edu/school-informatics-computing-cyber-systems/) at Northern Arizona University in Flagstaff, Arizona.
+
+I’m an epidemiologist, modeler, and data scientist interested in making outbreak forecasts more useful for the people who have to make decisions with them.
+
+::: {.profile-links}
+[Email](mailto:spencer.fox@nau.edu)
+[Google Scholar](https://scholar.google.com/citations?user=qZ0DYksAAAAJ&hl=en&oi=ao)
+[Publications](../../publications.qmd)
+[Back to the lab](../../people.qmd)
+:::
+:::
+:::
+
+## The Short Version
+
+I build and evaluate infectious disease models, usually with public health questions close at hand. A lot of my work focuses on respiratory viruses, outbreak forecasting, collaborative forecast hubs, and the strange things models do when epidemics begin to turn.
+
+I’m especially drawn to projects that sit somewhere between a methodological puzzle and a real decision: enough statistical texture to be interesting, but grounded enough that someone might actually use the answer.
+
+::: {.profile-note}
+The recurring question behind much of my work is simple: how can we make a forecast more honest, more reliable, and more actionable without pretending that the future is less uncertain than it is?
+:::
+
+## Questions I Keep Coming Back To
+
+::: {.profile-grid}
+::: {.profile-card}
+### When Do Models Fail?
+
+Forecast errors are often most consequential near epidemic peaks and turning points. I’m interested in recognizing those failure modes and building practical ways to correct them.
+:::
+
+::: {.profile-card}
+### What Makes An Ensemble Work?
+
+More models are not automatically better. I study how forecast hubs, baselines, model selection, and ensemble design affect the predictions we ultimately communicate.
+:::
+
+::: {.profile-card}
+### How Should Forecasts Travel?
+
+A model built for one disease, country, or surveillance system should not be assumed to work everywhere. International collaborations make those assumptions visible—and make the science better.
+:::
+:::
+
+## How I Like To Work
+
+I like collaborative projects where people can think out loud, challenge the model, and be honest about what the data can support. Good science usually involves a mixture of careful planning, exploratory detours, clear writing, and somebody asking the inconvenient question at exactly the right time.
+
+As a mentor, I want people to develop their own scientific taste: not only the ability to run an analysis, but the judgment to decide which question is worth asking, which result is believable, and how to explain it to another human.
+
+## Away From The Computer
+
+Outside the lab, I’m happiest hiking, backpacking, birding, camping, or skiing. Moving to Flagstaff has made it especially easy to turn “I should go outside for an hour” into a much longer adventure.
+
+## A Few Places To Start
+
+::: {.profile-grid}
+::: {.profile-card}
+### Epimodulation
+
+A method for augmenting empirical forecasts with epidemic dynamics, especially when models have trouble anticipating peaks.
+
+[Read the project story](../../blog/2025-11-12-epimodulation/)
+:::
+
+::: {.profile-card}
+### Forecast Ensembles
+
+Work on how many models are needed to build robust collaborative outbreak forecasts—and when smaller ensembles can do surprisingly well.
+
+[Read the project story](../../blog/2024-10-28-ensemble-size/)
+:::
+
+::: {.profile-card}
+### What The Lab Is Doing
+
+Talks, travel, student milestones, collaborations, and the occasional photo from somewhere much prettier than an office.
+
+[Browse lab news](../../news/)
+:::
+:::
+
+## Want To Talk?
+
+I’m always happy to hear about an interesting modeling question, a possible collaboration, or someone considering joining the lab. The best starting point is a short email explaining what you are thinking about and why it might overlap with our work.
+
+[Email Spencer](mailto:spencer.fox@nau.edu) · [Explore opportunities](../../opportunities.qmd) · [Contact the lab](../../contact.qmd)

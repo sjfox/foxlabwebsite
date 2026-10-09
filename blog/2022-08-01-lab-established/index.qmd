@@ -1,0 +1,28 @@
+---
+title: "The Fox Lab, est. 2022"
+description: "The original announcement of the Fox Lab's launch."
+author: "The Fox Lab"
+date: "2022-08-01"
+categories:
+  - Lab Milestones
+  - Lab History
+  - UGA
+image: ../../images/web/blog/lab-established-moving.jpg
+image-alt: "Moving across the country to Georgia."
+---
+
+In summer 2022, Spencer accepted a position as an Assistant Professor at the University of Georgia, jointly appointed in the Department of Epidemiology & Biostatistics and the Institute of Bioinformatics.
+
+That move marked the launch of The Fox Lab.
+
+The lab began with strong connections to infectious disease modeling, public health forecasting, and ongoing collaborations with the UT COVID-19 Modeling Consortium.
+
+![Moving across the country to Georgia.](../../images/web/blog/lab-established-moving.jpg){fig-alt="Moving across the country to Georgia." loading="lazy" decoding="async"}
+
+![Entrance to the UGA Health Sciences Campus.](../../images/web/blog/lab-established-campus.jpg){fig-alt="Entrance to the UGA Health Sciences Campus." loading="lazy" decoding="async"}
+
+![New office at UGA.](../../images/web/blog/lab-established-office.jpg){fig-alt="New office at UGA." loading="lazy" decoding="async"}
+
+![Miller Hall at UGA.](../../images/web/blog/lab-established-miller-hall.jpg){fig-alt="Miller Hall at UGA." loading="lazy" decoding="async"}
+
+![Office dog visit.](../../images/web/blog/lab-established-office-dog.jpg){fig-alt="Office dog visit." loading="lazy" decoding="async"}
