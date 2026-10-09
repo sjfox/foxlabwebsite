@@ -32,12 +32,12 @@ class NewsTests(unittest.TestCase):
 
     def test_new_json_entries_and_tags_appear_in_sorted_output(self):
         old = self.entry("An older update")
-        newer = self.entry("Bren's update", "2026-01-02")
+        newer = self.entry("Brynn's update", "2026-01-02")
         newer["tags"] = ["new-topic"]
         output = self.render([old, newer])
-        self.assertLess(output.index('id="brens-update"'), output.index('id="an-older-update"'))
+        self.assertLess(output.index('id="brynns-update"'), output.index('id="an-older-update"'))
         self.assertIn('<option value="new-topic">', output)
-        self.assertIn('aria-controls="detail-brens-update"', output)
+        self.assertIn('aria-controls="detail-brynns-update"', output)
         self.assertIn('aria-expanded="true"', output)  # All content is open without JS.
 
     def test_content_is_text_not_executable_markup(self):

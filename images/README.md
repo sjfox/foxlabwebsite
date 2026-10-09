@@ -21,3 +21,7 @@ For blog and profile pages, prefix image paths with `../../`. For news, use `../
 Keep `fig-alt` meaningful: the caption alone does not become an image alternative in Quarto. For scientific figures, describe the variables and the main pattern rather than just saying “results.” Add `image-alt` to blog front matter so listing thumbnails also have alternatives.
 
 The 128-pixel navigation portrait and 48-pixel favicon are in `images/web/branding/`.
+
+## Photo review placeholders
+
+See `PHOTO-PLAN.md` at the project root for the nine proposed photo locations and replacement instructions. The temporary illustrations are in `images/web/placeholders/`.

@@ -44,7 +44,7 @@
   {
     "date": "2025-06",
     "title": "CDC on-site forecasting meeting",
-    "summary": "Spencer, Maya, Bren, and Ehsan met with CDC collaborators to discuss international forecasting work.",
+    "summary": "Spencer, Maya, Brynn, and Ehsan met with CDC collaborators to discuss international forecasting work.",
     "details": "The group discussed ongoing collaborations with the Global Influenza Branch, including forecasts for Southern Hemisphere respiratory virus activity using FluNet data.",
     "tags": ["cdc", "influenza", "forecasting"],
     "images": ["../images/web/news/cdc-onsite-1.jpeg", "../images/web/news/cdc-onsite-2.jpeg", "../images/web/news/cdc-onsite-3.jpeg"]
@@ -52,8 +52,8 @@
   {
     "date": "2025-05",
     "title": "CDC InsightNet annual meeting",
-    "summary": "Bren Case represented the lab at the CDC InsightNet annual meeting in Utah.",
-    "details": "Bren presented work on optimal sample sizes for genomic surveillance in collaboration with the Massachusetts Department of Public Health.",
+    "summary": "Brynn Case represented the lab at the CDC InsightNet annual meeting in Utah.",
+    "details": "Brynn presented work on optimal sample sizes for genomic surveillance in collaboration with the Massachusetts Department of Public Health.",
     "tags": ["cdc", "genomic-surveillance", "conference"],
     "images": ["../images/web/news/insightnet-annual-meeting.jpeg"]
   },
@@ -99,8 +99,8 @@
   },
   {
     "date": "2024-09-30",
-    "title": "Bren's award-winning OPTIONS XII presentation",
-    "summary": "Bren Case won best presentation in the Public Health and Policy track at OPTIONS XII.",
+    "title": "Brynn's award-winning OPTIONS XII presentation",
+    "summary": "Brynn Case won best presentation in the Public Health and Policy track at OPTIONS XII.",
     "details": "Their talk presented real-time forecasts of respiratory hospitalizations in Paraguay in collaboration with CDC and Paraguay's Ministry of Health.",
     "tags": ["award", "conference", "paraguay"],
     "images": ["../images/web/news/options-xii.jpeg"]
@@ -124,10 +124,10 @@
   {
     "date": "2023-09-01",
     "title": "New lab members join the group",
-    "summary": "Maya Salcedo, Rajath Prabhakar, and Bren Case joined the Fox Lab.",
+    "summary": "Maya Salcedo, Rajath Prabhakar, and Brynn Case joined the Fox Lab.",
     "details": "The lab welcomed new members with interests spanning disease modeling, statistical programming, forecasting, and genomic surveillance.",
     "tags": ["people", "lab-growth"],
-    "images": ["../images/web/news/maya-joins-lab.jpg", "../images/web/news/rajath-joins-lab.jpg", "../images/web/news/bren-joins-lab.jpg"]
+    "images": ["../images/web/news/maya-joins-lab.jpg", "../images/web/news/rajath-joins-lab.jpg", "../images/web/news/brynn-joins-lab.jpg"]
   },
   {
     "date": "2023-01-01",

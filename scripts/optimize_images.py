@@ -10,7 +10,8 @@ for folder in ("home", "people", "blog", "news", "general", "publications"):
     for source in sorted((IMAGES / folder).iterdir()):
         if source.suffix.lower() not in (".jpg", ".jpeg", ".png", ".gif"):
             continue
-        target = IMAGES / "web" / folder / source.name
+        web_name = source.name.replace("bren-case", "brynn-case").replace("bren-joins-lab", "brynn-joins-lab")
+        target = IMAGES / "web" / folder / web_name
         target.parent.mkdir(parents=True, exist_ok=True)
         before += source.stat().st_size
         if source.suffix.lower() == ".gif":

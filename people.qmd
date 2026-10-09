@@ -6,6 +6,15 @@ image: images/web/people/spencer-fox.jpeg
 
 The Fox Lab is a small, collaborative group of modelers, data scientists, epidemiologists, and public health thinkers.
 
+::: {.photo-slot .photo-slot-wide}
+![Photo placeholder: the people behind the models.](images/web/placeholders/team-in-context.svg){fig-alt="Photo placeholder for the people behind the models." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**The people behind the models**\
+Suggested photo: A relaxed group photo with current lab members, ideally in your shared workspace.
+:::
+:::
+
 ::: {.people-grid}
 ::: {.person}
 ![Dr. Spencer J. Fox](images/web/people/spencer-fox.jpeg){fig-alt="Dr. Spencer J. Fox" loading="lazy" decoding="async"}
@@ -19,12 +28,12 @@ Northern Arizona University
 :::
 
 ::: {.person}
-![Bren Case](images/web/people/bren-case.jpg){fig-alt="Bren Case" loading="lazy" decoding="async"}
+![Brynn Case](images/web/people/brynn-case.jpg){fig-alt="Brynn Case" loading="lazy" decoding="async"}
 
-### [Bren Case](people/bren-case/index.qmd)
+### [Brynn Case](people/brynn-case/index.qmd)
 Postdoctoral Associate, Epidemiology & Biostatistics  
 [bcase@uga.edu](mailto:bcase@uga.edu)  
-[View profile](people/bren-case/index.qmd)
+[View profile](people/brynn-case/index.qmd)
 :::
 
 ::: {.person}

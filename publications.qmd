@@ -37,6 +37,15 @@ This collaborative evaluation of FluSight forecasts helped define and assess a n
 :::
 :::
 
+::: {.photo-slot .photo-slot-compact}
+![Photo placeholder: sharing our work.](images/web/placeholders/sharing-research.svg){fig-alt="Photo placeholder for sharing our work." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Sharing our work**\
+Suggested photo: A lab member presenting a poster or giving a conference talk.
+:::
+:::
+
 ## Recent Publications
 
 \* indicates authors who contributed equally.

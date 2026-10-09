@@ -96,6 +96,49 @@ main:has(.hero) > #title-block-header {
   margin: 0 auto clamp(2rem, 5vw, 4rem);
 }
 
+.photo-slot {
+  margin: 2rem 0 2.75rem;
+  overflow: hidden;
+  border: 1px solid var(--fox-line);
+  border-radius: 10px;
+  background: white;
+}
+
+.photo-slot figure,
+.photo-slot p:has(img) {
+  margin: 0;
+}
+
+.photo-slot img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+}
+
+.photo-slot-compact img {
+  aspect-ratio: 3 / 1;
+}
+
+.photo-slot figcaption {
+  display: none;
+}
+
+.photo-slot-caption {
+  padding: 1rem 1.25rem;
+  color: var(--fox-muted);
+  font-size: 0.95rem;
+}
+
+.photo-slot-caption strong {
+  color: var(--fox-ink);
+  font-size: 1.1rem;
+}
+
+.photo-slot-caption p {
+  margin: 0;
+}
+
 .group-photo img {
   display: block;
   width: min(100%, 1120px);
@@ -449,6 +492,10 @@ main:has(.profile-hero) > #title-block-header {
 }
 
 @media (max-width: 760px) {
+  .photo-slot-compact img {
+    aspect-ratio: 2 / 1;
+  }
+
   .profile-hero {
     grid-template-columns: 1fr;
   }

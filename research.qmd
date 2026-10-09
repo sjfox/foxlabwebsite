@@ -8,6 +8,15 @@ The Fox Lab studies infectious disease dynamics with one practical goal: make pu
 
 We specialize in bringing together population-level infectious disease data, epidemiological models, statistical inference, simulation, and forecast evaluation. Much of our work focuses on respiratory viruses like influenza, COVID-19, and RSV, while keeping the modeling toolbox flexible enough for whatever infectious disease question comes next.
 
+::: {.photo-slot .photo-slot-wide}
+![Photo placeholder: research in action.](images/web/placeholders/research-in-action.svg){fig-alt="Photo placeholder for research in action." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Research in action**\
+Suggested photo: Lab members working through forecasts at a whiteboard or sharing a screen.
+:::
+:::
+
 ## Project Areas
 
 ::: {.feature-grid}
@@ -59,6 +68,15 @@ We create training materials and decision frameworks that help public health pra
 We like models that have to earn their keep. That means building methods, testing them carefully, explaining their limits, and working with public health partners early enough that the modeling question is still connected to the decision.
 
 We are especially interested in interdisciplinary work that integrates ecological, behavioral, immunological, and evolutionary dynamics into infectious disease models. We also care about the craft of doing science well: reproducible analysis, clear writing, thoughtful visualization, generous collaboration, and a healthy skepticism of our own favorite ideas.
+
+::: {.photo-slot .photo-slot-compact}
+![Photo placeholder: working with public health partners.](images/web/placeholders/public-health-partners.svg){fig-alt="Photo placeholder for working with public health partners." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Working with public health partners**\
+Suggested photo: A workshop, partner meeting, or field visit with permission from everyone pictured.
+:::
+:::
 
 ## Tools And Skills
 

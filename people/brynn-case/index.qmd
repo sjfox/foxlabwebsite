@@ -1,0 +1,44 @@
+---
+title: "Brynn Case"
+description: "Brynn Case, postdoctoral associate, epidemiology & biostatistics, and member of The Fox Lab."
+image: ../../images/web/people/brynn-case.jpg
+title-block-style: none
+body-class: profile-page
+---
+
+::: {.profile-hero}
+::: {.profile-photo}
+![Brynn Case](../../images/web/people/brynn-case.jpg){fig-alt="Portrait of Brynn Case" loading="eager" decoding="async"}
+:::
+
+::: {.profile-intro}
+<p class="profile-kicker">Postdoctoral Associate, Epidemiology & Biostatistics</p>
+
+# Brynn Case
+
+Brynn Case is a postdoctoral associate in Epidemiology & Biostatistics at the University of Georgia and a member of The Fox Lab. Research in the lab includes infectious disease forecasting and genomic surveillance.
+
+::: {.profile-links}
+[Email](mailto:bcase@uga.edu)
+[Back to the lab](../../people.qmd)
+:::
+:::
+:::
+
+## Research And Lab Highlights
+
+### International forecasting
+
+Brynn presented real-time forecasts of respiratory hospitalizations in Paraguay at OPTIONS XII, receiving the best presentation award in the Public Health and Policy track.
+
+[Read the lab update](../../news/index.qmd#brynns-award-winning-options-xii-presentation)
+
+### Genomic surveillance
+
+Brynn presented research on optimal sample sizes for genomic surveillance, in collaboration with the Massachusetts Department of Public Health, at the CDC InsightNet annual meeting.
+
+[Read the lab update](../../news/index.qmd#cdc-insightnet-annual-meeting)
+
+## Get In Touch
+
+[Email Brynn Case](mailto:bcase@uga.edu) · [Explore the lab’s research](../../research.qmd)

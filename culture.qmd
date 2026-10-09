@@ -5,6 +5,15 @@ description: "How The Fox Lab works, mentors, and collaborates."
 
 The Fox Lab is for people who want to do careful quantitative science without losing sight of the humans on the other end of the model. We work on hard problems with real uncertainty, imperfect data, shifting timelines, and decisions that matter outside academia. That means the lab has to be technically serious, deeply collaborative, and honest about what models can and cannot do.
 
+::: {.photo-slot .photo-slot-wide}
+![Photo placeholder: learning together.](images/web/placeholders/lab-conversation.svg){fig-alt="Photo placeholder for learning together." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Learning together**\
+Suggested photo: A candid lab meeting, mentoring conversation, or whiteboard discussion.
+:::
+:::
+
 ## Mentoring
 
 Mentoring in the lab is built around independence with support. Trainees should expect regular feedback, help shaping research questions, guidance on writing and presentations, and room to develop their own scientific taste. The goal is not just to finish projects. The goal is to help people become thoughtful, confident scientists who can explain what they did, why it mattered, and what still makes them suspicious.
@@ -43,6 +52,15 @@ Depending on the project, trainees may build skills in:
 - collaborative software and analysis practices
 
 Nobody is expected to arrive knowing everything. The lab is a place to learn by doing, with enough structure and feedback to make that learning sustainable.
+
+::: {.photo-slot .photo-slot-compact}
+![Photo placeholder: life beyond the screen.](images/web/placeholders/lab-life.svg){fig-alt="Photo placeholder for life beyond the screen." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Life beyond the screen**\
+Suggested photo: A lab outing, shared meal, conference break, or hike around Flagstaff.
+:::
+:::
 
 ## Expectations
 

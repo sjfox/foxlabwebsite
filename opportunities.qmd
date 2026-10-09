@@ -5,6 +5,15 @@ description: "Current opportunities to join The Fox Lab."
 
 We are looking for people who want to build infectious disease models and forecasting tools that public health partners can actually use. The lab is a good fit for people who enjoy quantitative puzzles, care about public health impact, and want to work in the lively overlap between statistics, computation, epidemiology, and real-world decision-making.
 
+::: {.photo-slot .photo-slot-wide}
+![Photo placeholder: picture yourself here.](images/web/placeholders/joining-the-lab.svg){fig-alt="Photo placeholder for picture yourself here." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Picture yourself here**\
+Suggested photo: Students collaborating in an NAU workspace or a welcoming campus scene.
+:::
+:::
+
 ::: {.opportunity}
 ## Postdoctoral Researchers
 

@@ -28,6 +28,15 @@ We build models and forecasts to support public health outbreak responses.
 :::
 
 
+::: {.photo-slot .photo-slot-wide}
+![Photo placeholder: lab group photo.](images/web/placeholders/lab-group.svg){fig-alt="Photo placeholder for lab group photo." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Lab group photo**\
+Suggested photo: The team together outdoors, at NAU, or during a lab gathering.
+:::
+:::
+
 ## What We Work On
 
 We are interested in the whole forecasting pipeline: the biology of transmission, the statistics of uncertainty, the software that makes models reproducible, and the human decisions that forecasts are meant to support.

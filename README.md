@@ -38,7 +38,7 @@ The site renders to `docs/`. GitHub Actions builds and checks all pages, then de
 
 Repository: <https://github.com/sjfox/foxlabwebsite>.
 
-Push changes to `main` to publish automatically, or run the **Publish website** workflow manually. The workflow uses GitHub Pages with **GitHub Actions** as its publishing source. It does not require a `gh-pages` branch or a separate access token.
+The website is currently unpublished for review, and the **Publish website** workflow is disabled. Updates to `main` do not publish the site. When ready to launch, re-enable the workflow, restore GitHub Pages with GitHub Actions as its source, and run the workflow manually. The workflow uses GitHub Pages with **GitHub Actions** as its publishing source. It does not require a `gh-pages` branch or a separate access token.
 
 The initial address is <https://sjfox.github.io/foxlabwebsite/>. The intended custom domain is <https://www.foxandtheflu.com/>.
 

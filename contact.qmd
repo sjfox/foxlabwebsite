@@ -22,6 +22,15 @@ Questions, ideas, half-formed collaborations, and "I think this might be a Fox L
 
 The Fox Lab is based in the [School of Informatics, Computing, and Cyber Systems](https://in.nau.edu/school-informatics-computing-cyber-systems/) at Northern Arizona University in Flagstaff, Arizona. Spencer J. Fox is an Assistant Professor in the school.
 
+::: {.photo-slot .photo-slot-compact}
+![Photo placeholder: find us in flagstaff.](images/web/placeholders/flagstaff-campus.svg){fig-alt="Photo placeholder for find us in flagstaff." loading="lazy" decoding="async"}
+
+::: {.photo-slot-caption}
+**Find us in Flagstaff**\
+Suggested photo: Your building, a recognizable NAU campus landmark, or the view near the lab.
+:::
+:::
+
 ## Consulting And Advising
 
 I occasionally consider consulting or technical advising related to outbreak forecasting, infectious disease modeling, forecast evaluation, and public health decision-support tools when the project is a good fit. If that is what you have in mind, send a short note about the question, timeline, available data, and intended audience.
